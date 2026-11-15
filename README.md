@@ -2,7 +2,7 @@
 Based on the open-source project bf3-hudfix (Bartis1313), this project only adds a VU compatibility layer and ini configuration.
 
 Source
-Based on the open-source project bf3-hudfix (Bartis1313), this project just adds a VU compatibility layer and an ini config.
+Based on the open-source project bf3-hudfix (Bartis1313) https://github.com/Bartis1313/bf3-hudfix, this project just adds a VU compatibility layer and an ini config.
 
 Installation
 1. Backup the Engine.BuildInfo_Win32_Retail_dll.dll in your game directory
