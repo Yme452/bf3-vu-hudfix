@@ -1,4 +1,4 @@
-# bf3-vu-hudfix
+<img width="1920" height="1080" alt="f173dcb04a92a128fb91135fd81c90d8" src="https://github.com/user-attachments/assets/955a338d-25de-4ec9-bb0d-779548ef141d" /># bf3-vu-hudfix
 Based on the open-source project bf3-hudfix (Bartis1313), this project only adds a VU compatibility layer and ini configuration.
 
 Source
@@ -12,4 +12,4 @@ Installation
 5. Launch VU
 
 Notes & Tweaks
-·Since VU uses its own UI, the patch settings page won't show up in the game options menu, so you'll need to tweak it through the config file (hudfix.ini)![Uploading f173dcb04a92a128fb91135fd81c90d8.png…]()
+·Since VU uses its own UI, the patch settings page won't show up in the game options menu, so you'll need to tweak it through the config file (hudfix.ini)
