@@ -1,9 +1,6 @@
 <img width="1920" height="1080" alt="f173dcb04a92a128fb91135fd81c90d8" src="https://github.com/user-attachments/assets/955a338d-25de-4ec9-bb0d-779548ef141d" /># bf3-vu-hudfix
 Based on the open-source project bf3-hudfix (Bartis1313), this project only adds a VU compatibility layer and ini configuration.
 
-Source
-Based on the open-source project bf3-hudfix (Bartis1313) https://github.com/Bartis1313/bf3-hudfix, this project just adds a VU compatibility layer and an ini config.
-
 Installation
 1. Backup the Engine.BuildInfo_Win32_Retail_dll.dll in your game directory
 2. Put the patch's Engine.BuildInfo_Win32_Retail_dll.dll and Engine_BuildInfo_orig.dll into the BF3 game folder
